@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mogashni, a full time Full Stack Engineer Student
-- 👀 I’m interested in mastering the cascade fix among other things :-)
-- 🌱 I’m currently learning HTML,CSS and Flexbox
+- 👋 Hi, I’m @Mogashni, a Junior UX Designer Passionate about the Bitcoin space
+- 👀 I’m interested in simplifying userflows and helping to get more adooption :-)
+- 🌱 I’m currently learning ux by contibuting as much as I can to Bitcoin Core.
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
